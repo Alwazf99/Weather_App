@@ -1,4 +1,4 @@
-Wether App 
+Weather App
 
 It is a simple wether app to display weather of a particular city or region.
 It also displays other parameters like humidity, wind speed, etc.
